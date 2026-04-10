@@ -1,16 +1,50 @@
-## Hi there 👋
 
-<!--
-**abhinand-ak/abhinand-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Abhinand 👋
+
+Engineering undergraduate interested in embedded systems, IoT, machine learning and real-time applications.
+
+---
+
+🚀 What I Do
+
+- Build hardware + software integrated systems
+- Work with microcontrollers and sensors
+- Develop monitoring and control applications
+
+---
+🛠️ Tech Stack
+
+ 🔌 Embedded & Hardware
+- ESP32
+- Arduino
+- Electronics Prototyping
+
+ 💻 Programming
+- C
+- C++
+- Python (pandas, numpy)
+- MATLAB (Basic)
+
+ 🧰 Tools & Design
+- Fusion 360
+- Fritzing
+
+---
+
+📌 Projects
+
+A collection of experimental and prototype-based projects focused on embedded systems and real-world applications.
+
+---
+
+📫 Contact
+
+- Email: lordcrimson2005@gmail.com
+
+---
+
+⚡ Note
+
+Projects here are simplified versions of ongoing work.
