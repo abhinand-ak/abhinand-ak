@@ -23,7 +23,6 @@ Engineering undergraduate interested in embedded systems, IoT, machine learning 
 
  💻 Programming
 - C
-- C++
 - Python (pandas, numpy)
 - MATLAB (Basic)
 
